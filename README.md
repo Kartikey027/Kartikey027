@@ -13,6 +13,7 @@ I'm a passionate **Java & Spring Boot developer**, currently working on building
 - 📓 Social Media App (Spring Security + JWT)
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/kartikey-saxena-b16193290) • 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikey-saxena-b16193290)
+ 
 
 
