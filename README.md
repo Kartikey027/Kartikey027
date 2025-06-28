@@ -15,5 +15,4 @@ I'm a passionate **Java & Spring Boot developer**, currently working on building
 ## 📫 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kartikey-saxena-b16193290) • 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikey-saxena&show_icons=true&theme=radical)
-Once saved, it will immediately appear on your GitHub profile page.
+
