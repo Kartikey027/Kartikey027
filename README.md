@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kartikey Saxena!
 
-<!--
-**Kartikey027/Kartikey027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Java & Spring Boot developer**, currently working on building scalable backend systems and full-stack applications. 🚀
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 Java, Spring Boot, Hibernate, JPA
+- 📱 Flutter, Dart
+- 🛢️ MySQL, MongoDB
+- 🧪 Postman, Swagger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🛒 E-commerce Backend API
+- 📓 Social Media App (Spring Security + JWT)
+
+## 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/kartikey-saxena-b16193290) • 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikey-saxena&show_icons=true&theme=radical)
+Once saved, it will immediately appear on your GitHub profile page.
