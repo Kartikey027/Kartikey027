@@ -9,6 +9,7 @@ I'm a passionate **Java & Spring Boot developer**, currently working on building
 - 🧪 Postman, Swagger
 
 ## 🔥 Projects
+- ✅ To-Do List(Spring Boot + Thymleaf + HTML + CSS)
 - 🛒 E-commerce Backend API
 - 📓 Social Media App (Spring Security + JWT)
 
