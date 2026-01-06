@@ -38,17 +38,7 @@
   Full-stack app using Spring Boot & Thymeleaf  
   → Role-based login, booking with 24-hour constraint, appointment management.
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.ardis.dev/api?username=Kartikey027&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Kartikey027&theme=radical" width="48%" />
-</p>
-
-
----
 
 ## 📫 Let's Connect
 
